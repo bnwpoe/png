@@ -1,4 +1,4 @@
 <?php
-include_once("youngdumb.html");
+include_once("index.html");
 
  ?>
